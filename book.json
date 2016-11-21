@@ -1,0 +1,13 @@
+{
+    "plugins": [
+	"comment",
+	"theme-api",
+        "-versions"
+    ],
+    "pluginsConfig": {
+        "versions": {
+            "type": "branches",
+            "includeFilepath": false
+        }
+    }
+}

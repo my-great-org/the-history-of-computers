@@ -1,0 +1,11 @@
+/* CSS for website */
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p.img-comment {
+    display: block;
+    margin: 0 auto;
+}
