@@ -82,7 +82,7 @@ A smaller IBM 650 was developed in the mid-1950s, and was popular due to its sma
 
 They cost the **equivalent of almost $4 million** today (adjusted for inflation).
 
-## Mid-1950s: Transistor Computers
+## Mid-1950s: Transistor Computers {#mid-1950s}
 
 The development of transistors led to the replacement of vacuum tubes, and resulted in significantly smaller computers. In the beginning, they were less reliable than the vacuum tubes they replaced, but they also consumed significantly less power.
 
