@@ -1,7 +1,5 @@
 # The History of Computers {#the-history-of-computers}
 
-Update :)
-
 Computers have wedged themselves into every facet of our lives—they are what we would use as the symbolic representation of the modern world.
 
 But did you know that the history of computers dates back to the 1800s?
